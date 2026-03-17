@@ -86,6 +86,17 @@ Gradient Descent updates the weights iteratively to minimize the loss.
 
 * Overall, the regression fit highlights the capability of a simple linear model to provide interpretable and stable predictions, serving as a strong baseline for further          improvements.
 
+<img width="640" height="480" alt="Figure_1" src="https://github.com/user-attachments/assets/40c61933-b7ef-49ff-9d08-30faa04c8abc" />
+
+* The Loss vs Iterations graph illustrates how the model’s error decreases during training using gradient descent.
+
+* The loss shows a sharp decline in the initial iterations, indicating that the model quickly learns the underlying patterns in the data. As training progresses, the rate of        decrease slows down and the curve gradually flattens, demonstrating stable convergence.
+
+* The smooth and monotonic nature of the curve reflects that the optimization process is well-behaved, without oscillations or divergence. This indicates that the chosen            optimization strategy and preprocessing steps are effective.
+
+* Overall, the graph confirms that the model successfully converges to a minimum loss, ensuring reliable and consistent learning.
+
+
 
 ## Installation
 
