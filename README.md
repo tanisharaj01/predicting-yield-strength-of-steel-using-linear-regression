@@ -6,14 +6,13 @@ This repository contains a Python implementation of linear regression for predic
 
 ## Dataset
 
-The dataset used in this project is:
+Dataset Source: Machine Learning Foundry Steel Strength Dataset Argonne National Laboratory
 
 **steel_strength.csv**
 
 It contains alloy composition features and measured mechanical properties.
 
 Example columns:
-
 * formula
 * alloy composition features
 * yield strength
@@ -138,21 +137,7 @@ The regression line shows the relationship between input features and predicted 
 
 ---
 
-## Future Improvements
 
-* Predict multiple outputs (Yield Strength, Tensile Strength, Elongation)
-* Add regularization (Ridge / Lasso)
-* Implement stochastic gradient descent
-* Improve visualization of training loss
 
----
 
-## Author
 
-Student project for Machine Learning / Materials Informatics.
-
----
-
-## License
-
-This project is open-source and available under the MIT License.
