@@ -77,6 +77,7 @@ Gradient Descent updates the weights iteratively to minimize the loss.
 ---
 ## Model Visualization & Training Analysis
 <img width="640" height="480" alt="Figure_2" src="https://github.com/user-attachments/assets/b15e08b4-5310-46d6-a4df-5f346df8496b" />
+
 * The regression plot illustrates the relationship between the input features and the target variable, along with the fitted linear model.
 
 * The model successfully captures the overall trend in the data, showing a consistent positive relationship between the features and the target. The fitted line provides a clear   approximation of how the target variable changes with respect to the input.
