@@ -75,6 +75,9 @@ Gradient Descent updates the weights iteratively to minimize the loss.
 * Scatter plot with regression line
 
 ---
+## Model Visualization & Training Analysis
+<img width="640" height="480" alt="Figure_2" src="https://github.com/user-attachments/assets/b15e08b4-5310-46d6-a4df-5f346df8496b" />
+
 
 ## Installation
 
