@@ -157,6 +157,12 @@ The regression line shows the relationship between input features and predicted 
 * Matplotlib
 * Scikit-Learn
 
+## Future Improvements
+
+* Apply feature engineering to better represent relationships in the data  
+* Explore non-linear models such as Polynomial Regression  
+* Experiment with advanced algorithms like Random Forest and Gradient Boosting  
+* Incorporate additional evaluation metrics such as R² score  
 ---
 
 
